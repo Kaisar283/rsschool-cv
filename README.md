@@ -1,1 +1,1 @@
-https://github.com/Kaisar283/rsschool-cv/blob/gh-pages/cv.md
+https://Kaisar283.github.io/rsschool-cv/cv
